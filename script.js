@@ -13,3 +13,16 @@ else if (number == 0){
 else{
     console.log("noresult")
 }
+
+// write a js program to input any character ,and check whether it is vowals or pr consont?
+
+var characters = 'e';
+
+if (characters == 'a' || characters  == 'e' || characters == 'i' || characters == 'o' || characters == 'u') {
+    console.log("Character is Vowal ")
+}
+else if ( characters != 'a' || characters != 'e' || characters != 'i' || characters != 'o' || characters != 'u')
+    {
+        console.log("Character  is not vowal ")
+    }
+    
