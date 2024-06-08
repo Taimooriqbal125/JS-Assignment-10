@@ -49,3 +49,13 @@ else if ( characters != 'a' || characters != 'e' || characters != 'i' || charact
     else if(alph <= "z"){
         console.log("LowerCase")
     }
+      // Write a JS program to check whether a character is uppercase or lowercase alphabet?
+
+      var alph = "A";
+      if(alph <= "Z"){
+          console.log("Upper case")
+      }
+      else if(alph <= "z"){
+          console.log("LowerCase")
+      }
+  
